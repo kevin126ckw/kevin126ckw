@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+哈哈根本不知道怎么写这个东东
+有没有人教教我啊qwq
+- 📫 How to reach me:
+  E-mail:I-192@qq.com
+  QQ:35583291 (备注Gtihub)
+  PGP Key Singature:41912596B5F45B17900421628ADB979F3C55150B (Public key at keyserver.ubuntu.com)
+最近在玩PGP签名、认证什么的awa
