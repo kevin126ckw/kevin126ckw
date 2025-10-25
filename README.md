@@ -14,10 +14,33 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-哈哈根本不知道怎么写这个东东
-有没有人教教我啊qwq
-- 📫 How to reach me:
-  E-mail:I-192@qq.com
-  QQ:35583291 (备注Gtihub)
-  PGP Key Singature:41912596B5F45B17900421628ADB979F3C55150B (Public key at keyserver.ubuntu.com)
-最近在玩PGP签名、认证什么的awa
+# 👋 Hi, I'm Kevin!
+
+I'm a developer who knows a bit of everything—always curious, always learning.  
+Currently a middle school student, I love building things and exploring new tech.
+[My GPG public key](http://keyserver.ubuntu.com/pks/lookup?op=get&search=0x41912596b5f45b17900421628adb979f3c55150b)
+
+## 🛠️ Languages & Tools
+- Python
+- HTML
+- Some C++
+- Shell scripting
+
+## 🚀 Featured Project
+- [LightHTTP](https://github.com/kevin126ckw/LightHTTP): A very very very fast light HTTP&HTTPS server
+- [NextHub](https://github.com/kevin126ckw/NextHub): A media website based on Python Flask and MariaDB
+
+## 📫 How to reach me
+- E-mail:I-192@qq.com
+- [Personal Website](https://www.dreamcloud.top)
+
+## 📚 Outside of Coding
+When I'm not programming, you'll find me studying, tinkering, or exploring new ideas.
+
+## 💡 Fun Fact
+btw, I use Arch 😉
+
+---
+
+Thanks for visiting my profile!  
+Feel free to check out my repositories or connect through my website.
