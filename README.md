@@ -24,9 +24,11 @@ Currently a middle school student, I love building things and exploring new tech
 - Python
 - HTML
 - Some C++
+- Some C#
 - Shell scripting
 
 ## 🚀 Featured Project
+- [RF-Client-Revived](https://github.com/kevin126ckw/RF-Client-revived): A revived fork of Red Alert 2 Reunion 2023
 - [LightHTTP](https://github.com/kevin126ckw/LightHTTP): A very very very fast light HTTP&HTTPS server
 - [NextHub](https://github.com/kevin126ckw/NextHub): A media website based on Python Flask and MariaDB
 
