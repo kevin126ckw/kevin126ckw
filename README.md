@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 # 👋 Hi, I'm Kevin!
 
+[![License Persona](https://lcti.hydroroll.team/badge/gpl-3.0.svg)](https://lcti.hydroroll.team)
+
 I'm a developer who knows a bit of everything—always curious, always learning.  
 Currently a middle school student, I love building things and exploring new tech.
 [My GPG public key](http://keyserver.ubuntu.com/pks/lookup?op=get&search=0x41912596b5f45b17900421628adb979f3c55150b)
